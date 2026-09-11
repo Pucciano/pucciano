@@ -176,7 +176,7 @@ Outside my professional work, I work on technical projects and experiments in se
 
 ## Technical Overview
 
-Domain	Technologies
+### Domain	Technologies
 Digital Forensics	Cellebrite UFED, Magnet AXIOM, X-Ways Forensics
 Programming	Python, Swift, SwiftUI, PowerShell, Bash
 AI / ML	PyTorch, LoRA, RAG, vLLM, MLX, GGUF
